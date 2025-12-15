@@ -23,6 +23,14 @@ nav a:hover {
     color: white;
 }
 
+.active-nav{
+    border-bottom: 1px solid white;
+}
+
+.default-nav {
+    border-bottom: 1px solid transparent;
+}
+
 ul {
     list-style-type: none;
     flex-basis: 550px;
